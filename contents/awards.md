@@ -1,9 +1,3 @@
-- First-prize Academic Scholarship, 2023.
+-  Second place in the 7th National Medical Imaging Technology Professional Teaching Innovation Competition,2024.9.
 
-- Freshman Academic Scholarship, 2022.
 
-- Excellent Graduation Project of Jiangsu Province, 2022.
-
-- First-prize Enterprise Scholarship, 2021.
-
-- First-prize Academic Scholarship, 2019.
