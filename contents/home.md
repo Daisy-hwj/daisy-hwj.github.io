@@ -1,6 +1,5 @@
 
 
-\* [![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073) \*
 
 She is currently a faculty member at Capital Medical University and pursuing her Ph.D. at the School of Information and Communication, Communication University of China.
 
