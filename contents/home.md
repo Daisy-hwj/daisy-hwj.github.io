@@ -10,7 +10,7 @@ hanwj2014@ccmu.edu.cn
 #### Education & Research Stay
 Teacher,Capital Medical University, 2014-now.\
 Ph.D., Communications and Information Engineering, Communication University of China, 2018-2025 (expected)\
-M.S., Mathematics, Beijing University of Technology, 2011-2014.\
+M.S., Mathematics, Beijing University of Technology, 2011-2014.
 
 #### Research Interests
 Advanced Statistical Methods, Medical Image Processing, Machine Learning, Deep Learning, Intelligent Image Diagnosis.
